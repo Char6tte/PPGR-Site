@@ -3,7 +3,7 @@ icon: hand-wave
 layout:
   width: default
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -19,12 +19,12 @@ layout:
 
 ## ロゴ
 
-![ダミー画像](https://placehold.jp/150x150.png)
+![](https://placehold.jp/150x150.png)
 
 ## 仕様書
 
-各種初期仕様を記載している
-・ [仕様書](document.md)
+各種初期仕様を記載している  
+・ [仕様書](../document.md)
 
 ## 解説
 
@@ -37,7 +37,4 @@ layout:
   - [小規模犯罪]()
   - [中規模犯罪]()
   - [大規模犯罪]()
-- 
-
-
-![ダミー画像](https://via.placeholder.com/150 "ダミー画像")
+- あ

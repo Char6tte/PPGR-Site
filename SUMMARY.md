@@ -3,23 +3,19 @@
 * [目次](README.md)
 * [仕様書](document.md)
 
+## 初めて向け
+
+* [設定](ppgr/settings.md)
+
 ## リファレンス
 
-* [職種]()
-* [法律](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [職種](ppgr/Jobs.md)
+* [法律](ppgr/crime.md)
+* [コマンド](ppgr/commands.md)
 
 ## 犯罪系
 
-
-
-- [職業説明](../Jobs.md)
-- [法律]()
-- [コマンド](../command.md)
-- [設定](../setting.md)
-- [犯罪]()
-  - [ドラッグ精製]()
-  - [小規模犯罪]()
-  - [中規模犯罪]()
-  - [大規模犯罪]()
-- あ
+* [ドラッグ精製](ppgr/)
+* [小規模犯罪](ppgr/)
+* [中規模犯罪](ppgr/)
+* [大規模犯罪](ppgr/)

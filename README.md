@@ -24,7 +24,7 @@ layout:
 ## 仕様書
 
 各種初期仕様を記載している  
-・ [仕様書](ppgr/document.md)
+- [仕様書](../ppgr/document.md)
 
 ## 解説
 
